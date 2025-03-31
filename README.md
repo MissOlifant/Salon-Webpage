@@ -1,7 +1,7 @@
 # Salon-Webpage
 # Luxury Salon Login Page
 
-This is a simple **salon login page** built using **Notepad++**with **HTML & CSS**.
+This is a simple **salon login page** built using Notepad++with **HTML & CSS**.
 
 ## Features
 - User-friendly login form
